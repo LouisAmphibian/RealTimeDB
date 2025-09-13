@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "554304266337",
+    "project_id": "realtimedata-47d25",
+    "storage_bucket": "realtimedata-47d25.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:554304266337:android:040d699ba20905cacf4a20",
+        "android_client_info": {
+          "package_name": "com.xdevstudio.realtimedb"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBluzWljPnFJzP82CkAhne4ArkJsS6w0ic"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
